@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppleMaths</string>
+    <string name="bowl">Bowl</string>
+    <string name="apple">Apple</string>
+    <string name="_1">1</string>
+    <string name="_6">6</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+    <string name="_13">13</string>
+    <string name="_14">14</string>
+    <string name="_15">15</string>
+    <string name="_17">17</string>
+    <string name="_18">18</string>
+    <string name="_16">16</string>
+    <string name="_0">0</string>
+    <string name="todo">TODO</string>
+    <string name="_5_5">5+5=?</string>
+    <string name="_new">NEW</string>
+    <string name="correct">CORRECT !!!</string>
+    <string name="_5_5_10">5+5=10</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="oops">OOPS !!!</string>
+    <string name="yay">YAY !!!</string>
+</resources>
